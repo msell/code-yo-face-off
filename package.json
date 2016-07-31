@@ -5,7 +5,8 @@
   "main": "index.js",
   "preferGlobal": true,
   "bin": {
-    "focus": "lib/focus.js"
+    "focus": "lib/focus.js",
+    "fancy": "lib/fancy.js"
   },
   "scripts": {
     "compile": "babel -d lib/ src/",
