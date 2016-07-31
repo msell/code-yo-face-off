@@ -2,4 +2,4 @@
 
 import playit from './playit';
 
-playit('./tracks/morning-murmur.mp3');
+playit('../tracks/morning-murmur.mp3');

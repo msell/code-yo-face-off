@@ -2,4 +2,4 @@
 
 import playit from './playit';
 
-playit('./tracks/four-seasons.mp3');
+playit('../tracks/four-seasons.mp3');
