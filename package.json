@@ -6,7 +6,8 @@
   "preferGlobal": true,
   "bin": {
     "focus": "lib/focus.js",
-    "fancy": "lib/fancy.js"
+    "fancy": "lib/fancy.js",
+    "standup": "lib/standup.js"
   },
   "scripts": {
     "compile": "babel -d lib/ src/",
